@@ -15,4 +15,4 @@ Contents
 .. toctree::
 
    usage
-   api
+   tutorial 
