@@ -1,13 +1,9 @@
-Welcome to Lumache's documentation!
+Welcome to Baio's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+**Baio** is a Python application for biologists connecting them and their data witht public data bases. 
+It connects Large Language Models, such as OpenAI's ChatGPT, to public databases such as NCBI, Ensembl, and ANISEED, as well as the user's local files. 
+BaIO allows users to query these databases with natural language and annotate files with relevant information, including GO terms, Ensembl IDs, and RefSeq IDs. BaIO is built on the Python LangChain library and various tools developed by myself and the user interface is rendered with Streamlit.
 
 .. note::
 
